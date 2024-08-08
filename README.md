@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and microservices**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java , Spring and Docker**
 
 - 📫 How to reach me **yassineraddaouicontact@gmail.com**
 
