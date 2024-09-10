@@ -9,7 +9,7 @@
 - 💬 Ask me about **Java , Spring and Docker**
 
 - 📫 How to reach me **yassineraddaouicontact@gmail.com**
-- 🌐 https://professional-card-astro2.vercel.app/
+- 🌐 Visit my professional card: [🌍 Click here](https://professional-card-astro2.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
