@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yassine Raddaoui</h1>
-<h3 align="center">A passionate Java developer and an Oracle Certified Developer, Java
+<h3 align="center">A passionate Java developer and an Oracle Certified Developer
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassineraddaoui&label=Profile%20views&color=0e75b6&style=flat" alt="yassineraddaoui" /> </p>
 
 
-- 🌱 I’m currently learning **Spring Boot and microservices**
+- 🌱 I’m currently working on **Spring Boot and microservices**
 
-- 💬 Ask me about **Java , Spring Boot and Docker**
+- 💬 Ask me about **Java , Spring Boot , angular and Docker**
 
 - 📫 How to reach me **yassineraddaouicontact@gmail.com**
 - [🌍 Visit My website](https://yassine-raddaoui.vercel.app/)
